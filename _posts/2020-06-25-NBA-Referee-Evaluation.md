@@ -17,7 +17,7 @@ July 29th, 2008: the National Basketball Association had come under fire after l
   The foul also creates problems not related to 'Bonus' shots. Once a play commits six personal fouls in a game, they are considered to have 'Fouled Out', and no longer can play in the game. Imagine being the away team, and all of sudden in the first two minutes of the game your best player shockingly gets two quick fouls called on him. A smart coach would take his player out to make sure he doesnt foul out by the fourth quarter, when the game becomes important. What we as viewers should really be paying attention to is 'This road team just lost the player who scores the most points for them for the next few minutes of this game', and as a result suddenly the home team has a noticeable advantage until he returns. Or let's say the coach decides to leave that player in hoping he will be smart and not commit another foul. This player now has to play much less aggressive on defense once again giving an advantage to the other team.
   Now that I have painted the picture for the significane the foul in the NBA, let me show you some data collected about season averages for the way refs called fouls in 2019-2020. This data was obtained from https://www.nbastuffer.com/2019-2020-nba-referee-stats/ and they host many other data sets in regards to the NBA. Highly recommend checking out their datasets.
 
+<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig22.html" width="750" height="800"> </iframe>
 
 
-
-
+iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig1.html" width="750" height="800"> </iframe>
