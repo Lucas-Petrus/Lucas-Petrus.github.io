@@ -18,7 +18,7 @@ One column of data I was presented was Home Team Win% per official.
 
 118 out of 123 officials have Home Team Win% above .500 meaning over the season the majority of games they officiate the Home Team wins
 
-95.9% of officials, something seems off to me.
+95.9% of officials have above average Home Team Win%'s.... that seems off doesn't it.
 
 
 ## How Data Shows Referees Favoring Home Teams
