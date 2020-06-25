@@ -15,7 +15,9 @@ July 29th, 2008: the National Basketball Association had come under fire after l
 
 ## Just How Rigged Can It Be?
 One column of data I was presented was Home Team Win% per official. 
+
 118 out of 123 officials have Home Team Win% above .500 meaning over the season the majority of games they officiate the Home Team wins
+
 95.9% of officials, something seems off to me.
 
 
