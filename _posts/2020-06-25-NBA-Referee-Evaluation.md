@@ -13,6 +13,12 @@ By now you might be asking yourself "I get the NBA makes a lot money, but why wo
 
 July 29th, 2008: the National Basketball Association had come under fire after long-term NBA Official, Tim Donaghy, was sentenced to 15 months in Federal Prison for consirpacy to engage in wire fraud and conspiracy to transmit gambling information. He was responsible for officiating 772 regular season games and 20 playoff games. While Mr Donaghy was convicted and served his time, there was still a hurricane of rumors that the state of the NBA was compromised at all levels. Donaghy never named other referees partaking, but he did allude to this being a prevalent issue. Rumors floated around about how the 2002 NBA Playoffs and 2007 NBA Playoffs both had been rigged by league executives. However, despite receiving the spotlight attention, nothing really happened. No further charges were brought to other officials, there was no investigation into whether the 2002 and 2007 playoffs had been rigged, everything just died away like a bad internet meme. This concerns me now more than ever because the Supreme Court recently passed a law making Sports Betting legal. For example, Rivers Casino in Chicago has just opened their online sportsbook, and it lets you bet directly from an app on your phone. As more people adapt to the gambling culture, it is more important now than ever that we try to address sporting events being rigged.
 
+## Just How Rigged Can It Be?
+One column of data I was presented was Home Team Win% per official. 
+118 out of 123 officials have Home Team Win% above .500 meaning over the season the majority of games they officiate the Home Team wins
+95.9% of officials, something seems off to me.
+
+
 ## How Data Shows Referees Favoring Home Teams
   The 'foul' in the NBA is described simply as illegal personal contact with the opponent. Once a team accumaltes five fouls in a quarter (which is often), the opposing team is awarded a 'Bonus' consisting of two free freethrows and each foul after the fifth awards the team the same 'Bonus'. If you have ever watched the NBA, then you would know a foul could be called on every offensive attempt. It is nearly impossible to defend someone from dribbling to the hop for a layup without making some sort of contact. The league leaves it up to referee 'discretion' when to make the call. I hope you are beginning to see how this gray area causes problems.
   
