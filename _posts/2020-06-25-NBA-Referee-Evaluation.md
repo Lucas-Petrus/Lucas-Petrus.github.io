@@ -10,72 +10,14 @@ Each team in the NBA is currently valued at over 1 billion dollars. To put that 
 
 By now you might be asking yourself "I get the NBA makes a lot money, but why would this mean referees give a slight advantage to home teams?" My answer: In order for the NBA to negotiate high valued television contracts and fill stadiums with fans, it is in the best interest of the NBA Executives to have Home Teams to win as many games as possible. Let me give you an example: this past season the Minnesota Timberwolves were among the bottom five teams in average fan attendance. Low ticket revenue, low concession revenue, low merchandise revenue, low parking revenue, everywhere you category you look at there is low revenue. This was a result of the Timberwolves having the 3rd worst record in the league. The citizens of Minnesota don't want to pay hard earned dollars for a game to watch their team lose. This doesn't just affect the Timberwolves revenue stream either, this impacts the league as whole. When the NBA has a nationally televised Timberwolves home game, and viewers (who don't normally watch the Timberwolves) see a half empty stadium, chances increase that they turn off game. This drives ratings down, makes it harder to negotiate television contracts for the NBA, makes it harder to get sponsors, and slowly we all see the revenue stream dwindle down. Now imagine you an National Basketball Association League Executive, and you notice that when home teams lose money, we as an organization lose money. Would it be in your best interest to try to 'fix' that? I think so, and it's public knowledge that some referees have already been caught doing this.
 
-July 29th, 2008: the National Basketball Association had come under fire after long-term NBA Official, Tim Donaghy, was sentenced to 15 months in Federal Prison for consirpacy to engage in wire fraud and conspiracy to transmit gambling information. He was responsible for officiating 772 regular season games and 20 playoff games. While Mr Donaghy was convicted and served his time, there was still a hurricane of rumors that the state of the NBA was compromised at all levels. Donaghy never named other referees partaking, but he did allude to this being a prevalent issue. Rumors floated around about how the 2002 NBA Playoffs and 2007 NBA Playoffs both had been rigged by league executives. However, despite receiving the spotlight attention, nothing really happened. No further charges were brought to other officials, there was no investigation into whether the 2002 and 2007 playoffs had been rigged, everything just died away like a bad internet meme. Why might these circumstances remain undiscussed by the NBA? In my opinion the answer is simple: Money.
+July 29th, 2008: the National Basketball Association had come under fire after long-term NBA Official, Tim Donaghy, was sentenced to 15 months in Federal Prison for consirpacy to engage in wire fraud and conspiracy to transmit gambling information. He was responsible for officiating 772 regular season games and 20 playoff games. While Mr Donaghy was convicted and served his time, there was still a hurricane of rumors that the state of the NBA was compromised at all levels. Donaghy never named other referees partaking, but he did allude to this being a prevalent issue. Rumors floated around about how the 2002 NBA Playoffs and 2007 NBA Playoffs both had been rigged by league executives. However, despite receiving the spotlight attention, nothing really happened. No further charges were brought to other officials, there was no investigation into whether the 2002 and 2007 playoffs had been rigged, everything just died away like a bad internet meme. This concerns me now more than ever because the Supreme Court recently passed a law making Sports Betting legal. For example, Rivers Casino in Chicago has just opened their online sportsbook, and it lets you bet directly from an app on your phone. As more people adapt to the gambling culture, it is more important now than ever that we try to address sporting events being rigged.
+
+## How I Believe NBA Referees give a slight advantage
+  The 'foul' in the NBA is described simply as illegal personal contact with the opponent. Once a team accumaltes five fouls in a quarter (which is often), the opposing team is awarded a 'Bonus' consisting of two free freethrows and each foul after the fifth awards the team the same 'Bonus'. If you have ever watched the NBA, then you would know a foul could be called on every offensive attempt. It is nearly impossible to defend someone from dribbling to the hop for a layup without making some sort of contact. 
+  The foul also creates problems not related to 'Bonus' shots. Once a play commits six personal fouls in a game, they are considered to have 'Fouled Out', and no longer can play in the game. Imagine being the away team, and all of sudden in the first two minutes of the game your best player shockingly gets two quick fouls called on him. A smart coach would take his player out to make sure he doesnt foul out by the fourth quarter, when the game becomes important. What we as viewers should really be paying attention to is 'This road team just lost the player who scores the most points for them for the next few minutes of this game', and as a result suddenly the home team has a noticeable advantage until he returns. Or let's say the coach decides to leave that player in hoping he will be smart and not commit another foul. This player now has to play much less aggressive on defense once again giving an advantage to the other team.
+  Now that I have painted the picture for the significane the foul in the NBA, let me show you some data collected about season averages for the way refs called fouls in 2019-2020. This data was obtained from https://www.nbastuffer.com/2019-2020-nba-referee-stats/ and they host many other data sets in regards to the NBA. Highly recommend checking out their datasets.
 
 
-##How I Believe NBA Referees give a slight advantage
 
 
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
