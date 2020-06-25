@@ -2,6 +2,7 @@
 layout: post
 title: Do NBA Referees Give a Slight Advantage to the Home Team
 subtitle: How Fouls and Point Differential Can Help us Assess
+cover-img: /assets/img/path.jpg
 ---
 
 
