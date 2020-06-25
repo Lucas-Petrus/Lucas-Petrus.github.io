@@ -19,5 +19,7 @@ July 29th, 2008: the National Basketball Association had come under fire after l
 
 <iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig22.html" width="750" height="800"> </iframe>
 
+## The Key Takeaway
+In the figure above, we observe a referees season average for Foul % Against a Road Team and Foul % Against an Away Team. At first glimpse, it is encouraging to see that the majority of officials hover right around that 50% marker for how they call fouls, however; take a closer look. You will see the majority of data points above the 50% marker are Road Teams. Meaning that over the course of a season refs call more fouls against Road Teams than they do against Home Teams. Going back to what I said earlier, more fouls can give the other team a chance for the bonus or possible get an important player on the opposing team to sit for a while. Both of these circumstances lead to more points for the Home Team. When Las Vegas Sportsbooks set point spreads for NBA games, they generally fall into a point spread between 2.0-6.0, so even though the margin of difference in calls is small, it doesnt mean its not signficant. In fact those few extra fouls against the Road Teams can be more than enough for them to not cover the spread.
 
 <iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig1.html" width="960" height="680"> </iframe>
