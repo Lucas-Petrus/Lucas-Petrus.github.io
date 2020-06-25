@@ -20,4 +20,4 @@ July 29th, 2008: the National Basketball Association had come under fire after l
 <iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig22.html" width="750" height="800"> </iframe>
 
 
-<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig1.html" width="820" height="680"> </iframe>
+<iframe style="border-width:0" src="https://charts.sharpdesigndigital.com/lucas-fig1.html" width="900" height="680"> </iframe>
