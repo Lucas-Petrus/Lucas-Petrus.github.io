@@ -7,11 +7,11 @@ comments: true
 
 
 ## Why is this important to look at?
-under this bold secondary i wanted to write a few sentences to test out if this is how this actually works. abababababababababababababababababababababababababa
-here is me going on another line to test if it still works 
-here is me trying that again 
-and again
-just making sure it all stays in one paragraph
+July 29th, 2008: the National Basketball Association had come under fire after long-term NBA Official (referee), Tim Donaghy, was sentenced to 15 months in Federal Prison for consirpacy to engage in wire fraud and conspiracy to transmit gambling information. He was responsible for officiating 772 regular season games and 20 playoff games. While Mr Donaghy was convicted and served his time, there was still a hurricane of rumors that the state of the NBA was compromised by all levels. Rumors floated around about other referees, who may have also been responsible for this. Rumors floated around about how the 2002 NBA Playoffs and 2007 NBA Playoffs both had been rigged. However, despite receiving the spotlight attention, nothing really happened. No further charges were brought to other officials, there was no investigation into whether the 2002 and 2007 playoffs had been rigged, everything just died away like a bad internet meme. Why might this have just died away and been forgotten? The answer is simple: Money.
+
+Each team in the NBA is currently valuable over 1.0 billion dollars. The National Basketball Association makes 20+ billion dollars from television contracts with major netwroks ESPN and TNT. Millions of dollars are sold in merchandise, millions of dollars in ticket sales, millions in sponsorship deals, ect; the NBA is a money machine and any bad publicity can be deterimental to that revenue stream.
+
+By now you might be asking yourself "I get the NBA doesn't want bad press because that could affect revenue, but 
 
 Here's a useless table:
 
