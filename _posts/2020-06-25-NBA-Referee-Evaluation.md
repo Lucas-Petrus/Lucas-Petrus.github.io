@@ -38,3 +38,7 @@ One column of data I was presented was Home Team Win% per official.
 
 ## How 1 Foul Can Change a Game
   In this figure, you will see a histogram describing two different distributions: Average Foul Differential and Average Home Team Point Differential. A positive Foul Differential in this case means the Home Team committed less fouls than the Road Team. With Foul Differential, we see a large portion of the distribution being centered between 0.0-1.0, leading us to believe that the referees do call fair games. How I refute that though is by looking at the Average Home Team Point Differential. Notice how even though the Foul Differential is small that is still heavily favors the Home Team scoring more points. The figure below my distrbitution plot makes this easier to see. As foul differential becomes ever so slightly greater, the Home Team Points Differential begins to skyrocket. All it takes is an extra foul or two against the Road Team, and it seems the Home Team seizes a victory.
+
+
+## Final Thoughts
+It should be clear after reading this data that Referees have a much larger impact on the game than most may believe. The simply action of calling an extra foul on an oppossing team can be a deciding factor in the outcome of the game. With nationwide legalized gambling getting ready to launch these upcoming seasons, its more important that ever to protect the integrity of officiating in the NBA, and make light of situations we as viewers deem to be 'strange' or 'off'
