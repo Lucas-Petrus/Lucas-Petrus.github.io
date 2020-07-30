@@ -6,20 +6,15 @@ cover-img: /assets/img/refs.png
 ---
 
 
-##Las Vegas vs the World
+## Las Vegas vs the World
 
-  In the world of Sports Gambling there is a phrase that bettors commonly use “Vegas always knows”. To the non-sports gambling audience, you might be asking yourself, “What does that mean?”, well let me explain. Let’s pretend there a basketball game between a High School team and the profession team, the Los Angeles Lakers, was to take place. So if I handed you 100 dollars, who would you bet your money to win on? My guess is 1000/1000 times you would take the Los Angeles Lakers, and you would be right in doing so. Professional basketball players will not lose to High School Students. So how does Las Vegas make money on a game where everyone in the world knows which team is going to win; simple, they make a point spread.
-  
-  A point spread is how much they believe one team will beat another team by. By doing this, the playing field becomes more balanced for the bettor. In this instance let’s say Los Angeles Lakers point spread is -101.5 points (the half a point prevents the score from landing on exactly 101 and cancelling all bets). This means that the Los Angeles Lakers would have to beat this High School team by 102 points to ‘cover’ the spread in order for you to win your bet. Suddenly that 100 dollars I gave you to bet on the Lakers becomes more questionable. Personally, I would still take the Lakers to win by 102 points any day of the week, but you can see how this bet becomes more difficult to make.
-  
-  Now back to my point about “Vegas always knows”, lets say this game ended with the Lakers winning by 101 points (point spread was 101.5). You just lost your bet, and the most frustrating part is you lost your bet by 1 point. Now this happens all the time in sports betting. Vegas Oddsmakers are so accurate in their predictions, that everyday you will see games end within 1-3 points of the point spread. In the NBA, teams can score 120+ points and Vegas Oddsmakers still find a way to predict the spread of the game within 1-3 points. It’s not luck, its science, and they dominate it. They dominate it so much that in 2018 alone the Oddsmakers made 300 million dollars. In the following sections, I will show you how Oddsmakers use statistics and linear models to help predict the outcomes of NBA games
+  In the world of Sports Gambling there is a phrase that bettors commonly use: “Vegas always knows”. This phrase developed from Las Vegas Sportsbook Oddsmakers frequently guessing the winner of games, as well as how much the winning team wins by to prefection. In 2018, Las Vegas Sportsbooks profitted 300 million dollars off public bets. 300 million dollars from being able to more accurately guess the outcome of sporting events. Imagine a life where you could just watch sports all day and make that amount of money. How do Oddsmakers seemingly always predict the outcomes of games. Luck? No. Rigged Games? No (but maybe sometimes, see previous blog post). They do it by using data, statistics, and predictive modeling. Below I will sample for you just how Las Vegas does this; I will demonstrate it with a dataset from Kaggle.com that has the winner of every NBA game from 2014-2018.
 
 
 ## The Data
-The Data was obtained from a user on Kaggle.com, this dataset shows the winner of every NBA game from 2014-2018. Within the data set is a variety of team statictics. Statistics such as "2 point shots taken","rebounds","turnovers", ect. My target for this data set is "Winner", before creating any sort of model to predict the "Winner", the baseline accuracy for predicting the winner of a game is 50.00%. To avoid Leakage in my dataset, I had to remove columns such as "Team Points", "Opponent Points", and "Field Goals". All of these statistics would have shown the winner of the game, without the column actually saying winner. This would had led to overfitting and my model would have been producing inaccurate results. 
+Below is a graphic of what the dataset looks like. As you can see, it has many different features such as "Steals, Turnovers, Rebounds, Shot Attempts, ect..". I removed a few features such as "total points, opponent total points, field goal %, ect.." as these are all features that would already be able to tell our model who won the game. We dont want, we want to predict the winner without already knowing. For comparission later on, we have baseline accuracy of 50.00%, which just means if you were to guess, you would be able to guess accurate 50.00% of the time.
 
 
-(ADD IMAGE of Columns before and after dropping)
 
 
 ## Feature Engineering for More Accurate Predictions
