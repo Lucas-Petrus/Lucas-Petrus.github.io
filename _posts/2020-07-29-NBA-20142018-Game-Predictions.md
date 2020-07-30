@@ -32,7 +32,7 @@ Below is a graphic of what the dataset looks like. As you can see, it has many d
   
 ## Now Lets Explore
   Now that we know which features in our model were predicting the outcome with the most power, lets dive a little deeper. From the features above, I created a few different types of plots that compare variables, and show how the two together impact a teams probability winning or not winning. First, lets look at 'OpponentsDefRebounds' and 'OpponentsAssistTurnoverRatio' since these were two of our most 'telling' features. Notice how when OpponentsAssitTurnoverRatio goes all the way up, and OpponentsDefRebounds go all the way up, the probablity of the home team winning that game is 11.00%. This makes perfect sense because these two statistics show how well a team is controlling the basketball. Controlling the ball and not giving up extra shots will help you win game
-![](https://github.com/Lucas-Petrus/Lucas-Petrus.github.io/blob/master/_posts/PDP1.jpeg)
+![](https://raw.githubusercontent.com/Lucas-Petrus/Lucas-Petrus.github.io/master/_posts/PDP1.jpeg)
   
 
 
