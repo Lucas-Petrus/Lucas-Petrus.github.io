@@ -2,7 +2,7 @@
 layout: post
 title: Predicting the Winner of Every NBA Game From 2014-2018
 subtitle: How Predicitive Models Increase Our Chances of Winning Bets
-cover-img: /assets/img/refs.png
+cover-img: /assets/img/sportsbook-modern.jpg
 ---
 
 
